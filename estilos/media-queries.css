@@ -28,13 +28,22 @@
         width: 950px;
     }
     section#login > div#left-image {
-        float: left;
-        width: 50%;
-        height: 100%;
-    }
-    section#login > div#rigth-form {
         float: right;
         width: 50%;
         height: 100%;
     }
-}    
+    section#login > div#rigth-form {
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+    div#right-form > h1 {
+        text-align: center;
+        font-size: 2em;
+    }
+    div#right-form > p {
+        text-align: justify;
+        font-size: 1.2em;
+    }
+}
+
