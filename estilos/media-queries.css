@@ -36,7 +36,7 @@
         width: 50%;
         height: 100%;
     }
-    section#login > div#rigth-form {
+    section#login > div#right-form {
         float: left;
         width: 50%;
         height: 100%;
@@ -49,5 +49,7 @@
         text-align: justify;
         font-size: 1.2em;
     }
+    div.campo {
+        margin: 5px 0px;
 }
-
+}
