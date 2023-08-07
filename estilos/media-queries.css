@@ -8,16 +8,19 @@
     }
     section#login {
         width: 80vw;
+        height: 300px;
     }
     section#login > div#left-image {
         float: left;
         width: 30%;
         height: 100%;
-
     }
     section#login > div#right-form {
         float: right;
         width: 70%;
+    }
+    div.campo {
+        margin: 5px 0px;
     }
 }
 @media screen and (min-width: 992px) {
@@ -26,6 +29,7 @@
     }
     section#login {
         width: 950px;
+        height: 350px;
     }
     section#login > div#left-image {
         float: right;
