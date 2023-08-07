@@ -74,7 +74,7 @@ div.campo input {
     border-radius: 5px;
     padding: 4px;
     margin: 2px;
-    transform: translateY(-6px);
+    transform: translateY(-6.5px);
 }
 div.campo input:focus-within {
     background-color: rgb(244, 237, 237);
